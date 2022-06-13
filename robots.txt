@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://localhost:4000/xinyuzhangxy//sitemap.xml
+Sitemap: https://xinyuzhangxy.github.io//sitemap.xml
